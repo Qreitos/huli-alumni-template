@@ -8,7 +8,8 @@ LinkedIn: [My profile](https://www.linkedin.com/in/peter-%C5%A1pi%C5%A1%C3%A1k-1
 Email: pspisak94@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+[Banking project](https://github.com/Qreitos/bank_account_project)  
+[Web scrapper project](https://github.com/Qreitos/web_scrapper)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/{username}
